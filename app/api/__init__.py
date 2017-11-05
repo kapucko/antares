@@ -1,0 +1,1 @@
+from .sport import setup_routes as setup_sport_routes
